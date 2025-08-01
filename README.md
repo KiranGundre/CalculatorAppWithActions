@@ -1,4 +1,4 @@
-# Simple Calculator 🧮
+# Simple Calculator with GitHub Actions 🧮
 
 A beginner-friendly Python project that performs basic arithmetic operations.
 
